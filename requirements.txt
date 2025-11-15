@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dateutil
+tabulate
+rich
+streamlit==1.26.0
+openai==1.0.0
+reportlab==4.0.0
+python-dateutil
+reportlab
